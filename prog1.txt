@@ -1,0 +1,39 @@
+  This is file prog1.README in the directory 
+
+          ~csi402/public/prog1
+
+You should also take a careful look at the following 
+additional files in this directory. 
+
+  (1) submission_info.txt: This file explains how you should use
+      the turnin-csi402 program to submit your source files
+      and makefile. It also contains additional specifications
+      for your makefile.
+
+  (2) hash_one.c and hash_two.c  -- The C source files for the
+      two hash functions needed for this assignment. 
+
+  (3) input.txt and output.txt -- A sample input file and the
+      corresponding output file. (See below.)
+
+Information about the sample input: 
+-----------------------------------
+
+  File input.txt in this directory is a sample input file for this
+program. (As mentioned in the handout, the first line of this file
+contains the hash table size. Each subsequent line is a symbol that 
+must be inserted into the hash table.)
+
+   When we run the executable version of your program (p1) on
+the file input.txt  using the Unix command
+
+          p1  input.txt  out.txt
+
+the contents of the file out.txt produced by your program
+should agree with the contents of the file output.txt in this
+directory.  
+
+Note: You should NOT hardcode the above file names into your
+      program. Instead, you should rely on command line arguments
+      to get the names of input and output files.
+

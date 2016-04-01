@@ -1,0 +1,16 @@
+Results for Hash Function I: 
+
+Hash table size = 17
+Number of non-empty lists = 17
+Maximum number of entries in a list  = 5
+Minimum number of entries in a non-empty list = 1
+Average number of entries in a non-empty list = 2.29
+
+
+Results for Hash Function II: 
+
+Hash table size = 17
+Number of non-empty lists = 16
+Maximum number of entries in a list  = 4
+Minimum number of entries in a non-empty list = 1
+Average number of entries in a non-empty list = 2.44
